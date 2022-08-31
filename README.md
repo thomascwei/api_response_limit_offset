@@ -1,5 +1,7 @@
 # api_response_limit_offset 
 
+_node.js 6版_
+
 ## request
 * start_time & end_time is required with second.
 * offset is optional. Default is 0.
